@@ -1,5 +1,11 @@
 [
     {
+        "id": "injvaloper1dyntafvjynns5zyltwgyktej0y5zt84y3npkt4",
+        "name": "Trust Nodes",
+        "description": "The most trusted & secure crypto wallet",
+        "website": "https://trustwallet.com"
+    },
+    {
         "id": "injvaloper1r3lgsyq49zvl36cnevjx3q6u2ep897rws9hauk",
         "name": "StakeLab",
         "description": "Staking & Relaying Hub for Cosmos ecosystem.",
