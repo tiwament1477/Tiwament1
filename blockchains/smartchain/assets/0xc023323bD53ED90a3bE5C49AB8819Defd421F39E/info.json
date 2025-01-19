@@ -1,0 +1,16 @@
+{
+    "name": "AICrysis",
+    "symbol": "AICRY",
+    "decimals": 18,
+    "description": "A meme coin powered by AI and technology.",
+    "website": "https://chripas97.github.io/aicrysis-website/",
+    "explorer": "https://bscscan.com/token/0xc023323bD53ED90a3bE5C49AB8819Defd421F39E",
+    "id": "0xc023323bD53ED90a3bE5C49AB8819Defd421F39E",
+    "type": "token",
+    "status": "active",
+    "links": [
+        "https://twitter.com/_AICrysis_",
+        "https://github.com/ChriPas97"
+    ],
+    "tags": ["meme", "ai"]
+}
